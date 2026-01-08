@@ -12,8 +12,6 @@ Silakan gunakan tautan di bawah ini untuk menjelajahi dokumentasi dan menjalanka
 | :--- | :--- |
 | **📄 Dokumentasi (GDoc)** | [Klik di Sini untuk Google Doc](https://docs.google.com/document/d/1hCjDvQUGZAsSrPH76NAftT4AXkKeAQvjqEcMniT6XcM/edit?usp=sharing) |
 | **💻 Program Utama** | [Buka Aplikasi/Program](https://otomasi-system-hmi.netlify.app/) |
-|LINK PPT |[klik disini](https://gamma.app/docs/LAPORAN-ILMIAH-TUGAS-KELOMPOK-zp7q3psy63vtawr)|
-|LINK DEMO DAN PENJELASAN|[klik disini](https://youtu.be/ybLjRAo_Oy8)|
 ---
 
 ## 🛠️ Pengembang (Maintainers)
